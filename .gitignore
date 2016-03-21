@@ -1,3 +1,11 @@
 /videos/private/*png*.*
 /videos/private/*jpg8c.*
+/channels/
+/classify/
+/doc/
+/external/
+/filters/
+/images/
+/matlab/
+/videos/
 /detector/models/*Dets.txt
